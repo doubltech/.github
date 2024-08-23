@@ -18,10 +18,10 @@ We envision a world where remote developers are at the forefront of a revolution
 - **Excellence**: Striving for the highest quality in everything we do.
 
 ### 🛠 Our Projects
-Explore our repositories to discover tools and platforms designed to enhance the remote developer experience. Whether you're looking for time zone management, communication tools, or productivity enhancers, we have something to make your remote work life better.
+While most of our repositories are private and proprietary, they house a range of cutting-edge tools designed to enhance the remote developer experience. If you are interested in learning more about our projects or potential collaborations, please contact us directly.
 
-### 🤝 Contribute
-We welcome contributions from the community! Whether you're a seasoned developer or just starting, you can help us improve the remote work experience. Check out our [Contributing Guidelines](https://github.com/doubltech/contributing.md) to get started.
+### 🤝 Contribution
+Since our repositories are private, we currently do not accept external contributions. However, we value community engagement and welcome ideas, feedback, or proposals that align with our mission. If you have a suggestion or wish to collaborate, feel free to get in touch.
 
 ### 📫 Get in Touch
 Have questions, feedback, or just want to connect? Reach out to us on [Twitter](https://twitter.com/doubltech), or join our [Community Slack](https://slack.doubl.tech).
