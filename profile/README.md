@@ -31,4 +31,4 @@ All of our projects are proprietary and are not open-source. They are protected 
 
 ---
 
-At Doubl Tech Solutions, we’re building a world where remote developers are empowered, connected, and inspired to achieve greatness, one line of code at a time.
+At Doubl Tech, we’re building a world where remote developers are empowered, connected, and inspired to achieve greatness, one line of code at a time.
