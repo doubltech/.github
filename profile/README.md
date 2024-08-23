@@ -28,6 +28,7 @@ Have questions, feedback, or just want to connect? Reach out to us on [Twitter](
 
 ### 📜 License
 All of our projects are proprietary and are not open-source. They are protected under copyright law, and any unauthorized use, distribution, or commercial exploitation is strictly prohibited. For inquiries about licensing or commercial use, please contact us directly.
+
 ---
 
 At Doubl Tech Solutions, we’re building a world where remote developers are empowered, connected, and inspired to achieve greatness, one line of code at a time.
