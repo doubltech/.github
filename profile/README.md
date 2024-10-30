@@ -30,12 +30,11 @@ Our proprietary suite of tools focuses on:
 While our repositories are private, we actively engage with the DevOps community to shape the future of developer tooling and automation. We welcome discussions about best practices, automation patterns, and innovative approaches to solving complex operational challenges.
 
 ### 📫 Get in Touch
-Interested in revolutionizing your development workflows? Connect with us on [Twitter](https://twitter.com/doubltech), or join our [Community Slack](https://slack.doubl.tech) to discuss automation, DevOps, and the future of developer tooling.
+Interested in revolutionizing your development workflows? Connect with us on [Twitter](https://twitter.com/doubltech).
 
 ### 📜 License
-All of our automation tools and platforms are proprietary and are not open-source. They are protected under copyright law, and any unauthorized use, distribution, or commercial exploitation is strictly prohibited. For inquiries about licensing or commercial use, please contact us directly.
+Our public repositories are open-source and available under the BSD License. Our private automation tools and platforms remain proprietary and are not open-source. Private repositories are protected under copyright law, and any unauthorized use, distribution, or commercial exploitation is strictly prohibited. For inquiries about licensing or commercial use of our proprietary tools, please contact us directly.
 
 ---
 
 At Doubl Tech, we're building the future of developer operations - where complex tasks are automated, infrastructure is self-service, and developers are empowered to own their entire development lifecycle.
-
